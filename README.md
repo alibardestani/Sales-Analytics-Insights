@@ -2,12 +2,6 @@
 
 A comprehensive Python project for analyzing and visualizing sales data. This project includes data preprocessing, customer segmentation, cohort analysis, and market study to uncover actionable business insights.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Files Description](#files-description)
-
 ## Introduction
 
 This project provides tools to analyze sales data from a retail business. It includes modules for cleaning and preprocessing the data, analyzing trends over time, segmenting customers based on purchasing behavior, and visualizing insights through various plots and heatmaps.
