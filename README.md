@@ -29,5 +29,3 @@ Here's a README in Markdown format for your repository:
 - **`customer_segmentation.py`:** Script to segment customers using RFM analysis.
 - **`cohort_analysis.py`:** Script to perform cohort analysis on customer data.
   
-```
-
